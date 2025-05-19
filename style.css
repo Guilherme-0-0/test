@@ -1,0 +1,43 @@
+body{
+   margin: 0;
+    padding: 0;
+    background: #333;
+
+}
+a{
+    z-index: 2;
+}
+    .container{
+        margin-left: 900px;
+        margin-top: 400px;
+
+
+
+    }
+
+     .btn1{
+        position: relative;
+        color: orange;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+        width: 100px;
+        display: block;
+        margin: 15px 0;
+        z-index: 0;
+     }
+     .btn2{
+        position: relative;
+        background-color: orange;
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+        width: 100px;
+        display: block;
+        margin: 15px 0;
+        z-index: 0;
+     }
+   
