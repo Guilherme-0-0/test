@@ -154,10 +154,10 @@ body{
         margin: 15px 0;
         z-index: 0;
      }
-.btn0, .btn1, .btn2, .btn3, .btn4{
+.btn0, .btn1, .btn2, .btn3, .btn4, .btn5{
     transition: all 0.3s ease;
 }
-.btn0:hover, .btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover{
+.btn0:hover, .btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover, .btn5:hover{
     transform: scale(1.1);
     background-color: #FF7300;
     color: #fff;
